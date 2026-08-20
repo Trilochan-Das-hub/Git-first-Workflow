@@ -10,5 +10,5 @@ jobs:
 
   step:  
     - name: Chintu
-    - run: echo "Hello git-hub"
+      run: echo "Hello git-hub"
     
