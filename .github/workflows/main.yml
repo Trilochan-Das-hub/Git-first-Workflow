@@ -1,0 +1,14 @@
+name: Trilochan Das 
+
+on: 
+  push:
+      branches: [main]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+  step:  
+    - name: Chintu
+    - run: echo "Hello git-hub"
+    
