@@ -6,7 +6,7 @@ on:
 jobs:
   test:
     runs-on: ubuntu-latest
-    step:  
+    steps:  
       - name: Chintu
         run: echo "Hello git-hub"
     
